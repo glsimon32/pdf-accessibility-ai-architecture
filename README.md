@@ -68,6 +68,10 @@ The platform may support:
 
 ## 4. High-Level Architecture
 
+![PDF Auto Tagger Architecture](pdf-auto-tagger-architecture.png)
+
+*Conceptual overview of the AI-powered PDF/UA and WCAG accessibility automation pipeline.*
+
 ```text
 +-------------------------------------------------------------+
 |                         PDF Input Layer                     |
