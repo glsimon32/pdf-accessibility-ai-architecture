@@ -1,0 +1,11 @@
+{
+  "issueId": "issue-001",
+  "documentId": "sample-document-001",
+  "pageNumber": 3,
+  "issueType": "Missing Alt Text",
+  "severity": "moderate",
+  "elementType": "Figure",
+  "description": "Image element requires meaningful alternative text.",
+  "recommendedAction": "Add concise alt text describing the purpose of the image.",
+  "reviewStatus": "pending"
+}
