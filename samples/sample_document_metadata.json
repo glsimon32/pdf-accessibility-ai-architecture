@@ -1,0 +1,20 @@
+{
+  "documentId": "sample-document-001",
+  "fileName": "sample-enterprise-report.pdf",
+  "pageCount": 24,
+  "processingStatus": "completed",
+  "accessibilityProfile": {
+    "taggedPdf": true,
+    "readingOrderChecked": true,
+    "altTextCoverage": "partial",
+    "tableStructureChecked": true,
+    "formLabelsChecked": false
+  },
+  "qualitySummary": {
+    "totalIssuesDetected": 12,
+    "criticalIssues": 2,
+    "moderateIssues": 6,
+    "minorIssues": 4
+  },
+  "recommendation": "Human review required for table headers and image alt text."
+}
