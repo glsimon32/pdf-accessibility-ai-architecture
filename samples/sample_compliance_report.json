@@ -1,0 +1,29 @@
+{
+  "documentId": "sample-document-001",
+  "totalPages": 24,
+  "processingTimeSeconds": 18,
+  "automationStatus": "completed",
+  "qaRequired": true,
+  "checks": [
+    {
+      "name": "Tagged PDF",
+      "status": "pass"
+    },
+    {
+      "name": "Reading Order",
+      "status": "review_required"
+    },
+    {
+      "name": "Image Alt Text",
+      "status": "partial"
+    },
+    {
+      "name": "Table Headers",
+      "status": "review_required"
+    },
+    {
+      "name": "Document Language",
+      "status": "pass"
+    }
+  ]
+}
